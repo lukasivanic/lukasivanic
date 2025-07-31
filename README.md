@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @lukasivanic
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ReactJS and NextJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding, 3D/2D design and game dev
+- 🌱 I’m currently learning C# (Unity) and Blender
 
 <!---
 lukasivanic/lukasivanic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
